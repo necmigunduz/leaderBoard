@@ -1,0 +1,47 @@
+section {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+label {
+    margin-top: 2px;
+}
+
+.formHeader {
+    font-weight: bold;
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px 10px;
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
