@@ -1,1 +1,1 @@
-# leaderBoard
+A simple leaderboard app developed by using JS, HTML, and CSS.
